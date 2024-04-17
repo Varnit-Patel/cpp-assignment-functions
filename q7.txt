@@ -1,0 +1,1 @@
+No, we cannot use the same function name for different functions because function name is an identifier i.e., it is unique.
